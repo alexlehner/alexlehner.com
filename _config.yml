@@ -2,9 +2,6 @@ title:            Alex Lehner
 description:      Developer and occasional juggler
 logo:             alex-lehner.jpg
 search:           true
-# Change url to your domain. Leave localhost server or blank when working locally.
-# You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
-url:              http://alexlehner.com
 
 # Owner/author information
 owner:
@@ -63,5 +60,5 @@ kramdown:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "README.md", "LICENSE", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 
-gems:
+plugins:
   - jemoji
