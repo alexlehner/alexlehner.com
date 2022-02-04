@@ -10,3 +10,5 @@ gem 'stringex'
 gem 'jekyll-redirect-from'
 gem 'jemoji'
 gem 'github-pages'
+
+gem "webrick", "~> 1.7"
