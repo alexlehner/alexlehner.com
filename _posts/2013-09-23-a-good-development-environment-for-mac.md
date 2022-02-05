@@ -5,8 +5,6 @@ category: articles
 tags: [development, mac, apps]
 image:
   feature: devEnvironment-short.png
-comments: false
-share: true
 redirect_from: "/a-good-development-environment-part-1-desktop-apps/"
 ---
 

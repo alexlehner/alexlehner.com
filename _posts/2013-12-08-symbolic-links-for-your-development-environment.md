@@ -4,8 +4,6 @@ title: Symbolic Links For Your Development Environment
 description: "Learn how to speed up your development workflow with Symbolic Links"
 category: articles
 tags: [git, links, mamp, symbolic, symbolic links]
-comments: false
-share: true
 redirect_from: "/symbolic-links-for-your-development-environment/"
 ---
 
