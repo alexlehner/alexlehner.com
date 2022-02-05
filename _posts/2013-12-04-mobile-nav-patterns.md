@@ -6,8 +6,6 @@ category: articles
 tags: [mobile, nav, responsive, off-canvas]
 image:
   feature: navPatterns-short.png
-comments: false
-share: true
 redirect_from: "/mobile-nav-patterns/"
 ---
 We developers and designers are regularly tasked with creating efficient and pretty navigation. This has never been easy and has resulted in many approaches to make the grouping of hyperlinks to be attractive and useful. Mobile devices changed the way users can interact with websites and added complexity to an already convoluted task. The lack of hover behaviors and the small screen sizes make for an interesting challenge to users and developers alike.

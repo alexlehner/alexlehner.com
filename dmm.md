@@ -1,5 +1,5 @@
 ---
-layout: page-no-header
+layout: page
 permalink: /dmm/
 title: Community Of Practice Responsive Project
 modified: 2015-02-16
@@ -28,7 +28,7 @@ To do this we are are going to be using the following strategies:
 
 ---
 
-##Mocks
+## Mocks
 
 ![Cop]({{ site.url }}/images/dmm/CoP.jpg)
 
@@ -43,27 +43,27 @@ To do this we are are going to be using the following strategies:
 
 ---
 
-##Things worth mentioning
+## Things worth mentioning
 
 I hate to lock down the creative process by excessive and overly-detailed contracts. However they serve a good purpose to explain some things. Instead of an additional contract I decided to cover some key points below. 
 
-###Text content
+### Text content
 
 I’m not responsible for writing any text copy. However, I will adjust current copy to fit design and meet current web content standards.
 
-###Photographs
+### Photographs
 
 You should supply graphic files in as high as quality format possible. You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, I would appreciate the full resolution version from the provider. 
 
-###Browser testing
+### Browser testing
 
 Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person’s experience of a design should be appropriate to the capabilities of a browser or device.
 
-###Desktop browser testing
+### Desktop browser testing
 
 I test my work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox and Opera. I’ll also test to ensure Microsoft Internet Explorer 9 for Windows users get an appropriate, possibly different, experience. I’ll implement a single column design for older versions of Internet Explorer but and won’t test in other older browsers unless you specify otherwise.
 
-###Mobile browser testing
+### Mobile browser testing
 
 Testing popular small-screen devices is essential in ensuring that a person’s experience of a design is appropriate to the capabilities of the device they’re using. I test my work in:
 
@@ -71,12 +71,12 @@ iOS: Safari, Google Chrome Android 4.x: Google Chrome and Firefox
 
 I currently don’t test Blackberry, Opera Mini/Mobile, Windows Phone or other mobile browsers. If you need us to test using these, something can be arranged.
 
-###Changes and revisions
+### Changes and revisions
 
 I know from experience that fixed-price contracts are rarely beneficial to you, as they often limit you to your earliest ideas. I don’t want to limit your ability to change your mind. The price at the beginning is based on the length of time I estimate I’ll need to accomplish everything you’ve told me you want to achieve, but I'm happy to be flexible. If you want to change your mind or add anything new, that won’t be a problem, but please expect a separate estimate for that.
 
 Phew.
 
-###Fine Print
+### Fine Print
 
 I love to show off my work and share what I've learned with other people, so I reserve the right, with your permission, to display and link to your project as part of my portfolio and to write about it on websites, in magazine articles and potentially in books.

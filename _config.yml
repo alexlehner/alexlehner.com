@@ -1,64 +1,72 @@
-title:            Alex Lehner
-description:      Developer and occasional juggler
-logo:             alex-lehner.jpg
-search:           true
+theme: jekyll-theme-so-simple
+skin: "/assets/css/skins/dark.css"
 
-# Owner/author information
-owner:
-  name:           Alex Lehner
-  avatar:         alex-lehner.jpg
-  email:          alex@lifelikegeek.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        alexjlehner
-  facebook:       alexjlehner
-  github:         alexlehner
-  stackexchange:
-  linkedin:       ajlehner
-  instagram:      alexlehner
-  flickr:
-  tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+locale: en-US
+title: Alex Lehner
+description: Engineer and occasional juggler
+logo: images/alex-lehner.jpg
+date_format: "%B %-d, %Y"
 
-# Analytics and webmaster tools stuff goes here
+read_time: true
+words_per_minute: 175
+
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
 google_analytics: UA-39319867-2
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
+twitter:
+  username: alexjlehner
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-highlighter: rouge
-markdown:    kramdown
+# Liquid
+liquid:
+  error_mode: strict
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+# Build settings
+permalink: /:categories/:title/
+markdown: kramdown
+feed:
+  path: atom.xml
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "README.md", "LICENSE", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+# Search
+search_full_content: false # can have performance implications for large sites
 
 plugins:
-  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+# Front Matter Defaults
+defaults:
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: false
+      comments: false
+
+# Site Author
+author:
+  name: Alex Lehner
+  email: alex@alexlehner.com
+  twitter: alexjlehner
+
+# Footer Links
+footer_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ajlehner/
+    icon: fab fa-linkedin
+  - title: Twitter
+    url: https://twitter.com/AlexJLehner
+    icon: fab fa-twitter-square
+  - title: Github
+    url: https://github.com/alexlehner
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square

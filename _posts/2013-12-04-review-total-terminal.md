@@ -4,8 +4,6 @@ title: Review of Total Terminal
 description: "Review of the Total Terminal App for mac"
 category: articles
 tags: [design, reviews, git, shortcuts, totalTerminal, workflow]
-comments: false
-share: true
 redirect_from: "/totalterminal-review/"
 ---
 

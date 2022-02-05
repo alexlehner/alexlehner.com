@@ -6,8 +6,6 @@ category: articles
 tags: [design, reviews, sketching, UI, ux, workflow]
 image:
   feature: uiStencils-short.png
-comments: false
-share: true
 redirect_from: "/ui-stencils-review/"
 ---
 

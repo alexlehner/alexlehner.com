@@ -3,8 +3,6 @@ layout: post
 title: Free Apple device mockups for your projects
 category: articles
 tags: [apple, mockups, design]
-comments: false
-share: true
 modified: 2015-02-15
 ---
 

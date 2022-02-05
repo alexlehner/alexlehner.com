@@ -1,16 +1,14 @@
 ---
-layout: page-no-header
+layout: page
 permalink: /about/
 title: Hi. I'm Alex.
 tags: [alex lehner, alex, lehner, font-end, design, web design, responsive, blog, minimalism, usability, ui, ux]
 modified: 2018-01-12
 ---
 
-<img src="{{ site.url }}/images/alex-lehner-about.jpg">
+I'm passionate about building products, good design, & mentoring others.
 
-I'm passionate about for building products, good design, & mentoring others.
-
-I'm working as a Staff Engineer on the [MailChimp](https://twitter.com/mailchimp) engineering team where I get to build software for 15M people. I started my career and earned a couple of degrees from [Florida State](http://fsu.edu/ "FSU Website") before moving to Atlanta, GA.
+I'm working as a Staff Engineer on the [Mailchimp](https://twitter.com/mailchimp) engineering team where I get to build software for 15M people. I started my career and earned a couple of degrees from [Florida State](http://fsu.edu/ "FSU Website") before moving to Atlanta, GA.
 
 In another life I performed in [a circus](http://circus.fsu.edu/ "FSU Flying High Circus Website") and did a mix of wire-walking, juggling, and trapeze.
 

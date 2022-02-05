@@ -3,8 +3,6 @@ layout: post
 title: "The Wonderful Web: The Color Purple"
 category: articles
 tags: [web, community, rebeccapurple]
-comments: false
-share: true
 ---
 
 ![#663399]({{ site.url }}/images/663399-promo.png)

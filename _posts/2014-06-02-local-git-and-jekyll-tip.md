@@ -3,8 +3,6 @@ layout: post
 title: Local git and Jekyll tip
 category: articles
 tags: [git, jekyll, terminal]
-comments: false
-share: true
 ---
 
 A couple of weeks ago this site was rebuilt using [Jekyll](http://jekyllrb.com/) and moved to [Github Pages](https://pages.github.com/). If you want to learn more about Jekyll + Github, checkout the [Github site](https://help.github.com/articles/using-jekyll-with-pages).

@@ -3,8 +3,6 @@ layout: post
 title: The Right Way To Setup MAMP
 category: articles
 tags: [MAMP, local, git, apache, php, mysql]
-comments: false
-share: true
 redirect_from: "/a-good-development-environment-part-2-the-right-way-to-setup-mamp/"
 ---
 

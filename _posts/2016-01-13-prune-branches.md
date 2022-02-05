@@ -3,8 +3,6 @@ layout: post
 title: "Pruning remote branches"
 category: articles
 tags: [git, development]
-comments: false
-share: true
 ---
 
 MailChimp HQ has been running on something akin to the [GitHub flow](https://guides.github.com/introduction/flow/) for a while now. Side effect of this strategy is there are So. Many. Branches.
