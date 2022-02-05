@@ -1,12 +1,10 @@
 ---
-layout: page-no-header
+layout: page
 permalink: /about/
 title: Hi. I'm Alex.
 tags: [alex lehner, alex, lehner, font-end, design, web design, responsive, blog, minimalism, usability, ui, ux]
 modified: 2018-01-12
 ---
-
-<img src="{{ site.url }}/images/alex-lehner-about.jpg">
 
 I'm passionate about for building products, good design, & mentoring others.
 
