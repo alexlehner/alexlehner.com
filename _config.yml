@@ -58,6 +58,15 @@ author:
 
 # Footer Links
 footer_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ajlehner/
+    icon: fab fa-linkedin
+  - title: Twitter
+    url: https://twitter.com/AlexJLehner
+    icon: fab fa-twitter-square
+  - title: Github
+    url: https://github.com/alexlehner
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
