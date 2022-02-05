@@ -48,6 +48,7 @@ defaults:
     values:
       layout: post
       share: false
+      comments: false
 
 # Site Author
 author:
