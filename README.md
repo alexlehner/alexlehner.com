@@ -1,10 +1,40 @@
-Alexlehner.github.io README
-=================================
+<div align="center"> 
 
-This repository is used to host my personal site and portfolio on GitHub Pages. Happy hacking! 
+# alexlehner.com README
 
---Alex  
-[@AlexJLehner](http://www.twitter.com/alexjlehner)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/581a392a-a57e-40d2-b5d9-e299632ec5fe/deploy-status)](https://app.netlify.com/sites/keen-colden-a83b0f/deploys)
+
+This repository is used to host my personal site and portfolio.
+
+</div>
+
+---
+
+## Getting started
+
+The site is built using Jekyll so you'll want the [latest version of Ruby](https://www.ruby-lang.org/en/documentation/installation/) and make sure it's configured properly in your PATH. 
+
+```bash
+# Clone the repo
+git clone https://github.com/alexlehner/alexlehner.github.io.git
+
+# Navigate into the directory
+cd alexlehner.github.io
+```
+
+```bash
+# Feel free to skip if you already have bundler. 
+gem install --user-install bundler
+
+# Grab all of the dependencies for running the site
+bundle install
+```
+
+```bash
+# Run Jekyll on watch mode and make your site available at http://127.0.0.1:4000
+bundle exec jekyll serve
+```
+
 
 ## License
 
